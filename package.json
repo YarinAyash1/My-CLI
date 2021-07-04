@@ -1,0 +1,19 @@
+{
+  "name": "my-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "Yarin Ayash",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-pipe": "^5.1.1",
+    "inquirer": "^8.1.1",
+    "shelljs": "^0.8.4"
+  }
+}
